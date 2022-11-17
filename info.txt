@@ -1,0 +1,3 @@
+TOKEN = MTA0MTEyMDU5NzY3NTEwMjQxOQ.GCo-Ai.R05nlSVlzSftDgGdH112lBPbb_OC-7iOMpm6Jg
+
+Invite Link = https://discord.com/api/oauth2/authorize?client_id=1041120597675102419&permissions=8&scope=bot
